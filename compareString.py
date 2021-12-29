@@ -8,7 +8,7 @@ import sys
 #the expected function to return a STRING
 # parameters STRING s1 and STRING s2
 
-def twoStrings(sq, s2):
+def twoStrings(s1, s2):
     #Returns either YES or NO
     # constraints s1 and s2 consist of characters in the range of ASCII
     # constraints 1 <= p <= 10
